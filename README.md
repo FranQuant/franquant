@@ -1,5 +1,3 @@
-
-
 ## ⚙️ Tech Stack
 
 ### 💻 Programming Languages & Core
@@ -17,12 +15,27 @@
 <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-0E1117?style=for-the-badge&logoColor=white"/></a>
 <a href="https://openbb.co/" target="_blank"><img src="https://img.shields.io/badge/OpenBB-2E8B57?style=for-the-badge&logo=openbb&logoColor=white"/></a>
 
+### 🧠 Model Architectures
+<a href="#"><img src="https://img.shields.io/badge/LSTM-8E44AD?style=for-the-badge&logo=keras&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GRU-9B59B6?style=for-the-badge&logo=keras&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CNN-E91E63?style=for-the-badge&logo=keras&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Transformer-00C4B3?style=for-the-badge&logo=transformers&logoColor=white"/></a>
+
 ### 📊 Data & Visualization
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white"/></a>
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/></a>
+
+### 📈 Quant / Trading Libraries
+<a href="https://www.vectorbt.pro/" target="_blank"><img src="https://img.shields.io/badge/vectorbt-0A0A0A?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/twopirllc/pandas-ta" target="_blank"><img src="https://img.shields.io/badge/Pandas--TA-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://github.com/matplotlib/mplfinance" target="_blank"><img src="https://img.shields.io/badge/mplfinance-008B8B?style=for-the-badge&logo=chartdotjs&logoColor=white"/></a>
+<a href="https://github.com/ranaroussi/quantstats" target="_blank"><img src="https://img.shields.io/badge/QuantStats-262626?style=for-the-badge&logo=chartdotjs&logoColor=white"/></a>
+<a href="https://eodhistoricaldata.com/" target="_blank"><img src="https://img.shields.io/badge/EODHD-0077CC?style=for-the-badge&logo=data&logoColor=white"/></a>
+<a href="https://alpaca.markets/" target="_blank"><img src="https://img.shields.io/badge/Alpaca-000000?style=for-the-badge&logo=alpaca&logoColor=white"/></a>
+<a href="https://www.oanda.com/" target="_blank"><img src="https://img.shields.io/badge/OANDA-0058A3?style=for-the-badge&logo=oanda&logoColor=white"/></a>
 
 ### 🚀 Backend / Infra / DevOps
 <a href="https://www.streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
