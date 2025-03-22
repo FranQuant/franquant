@@ -1,5 +1,6 @@
 
-<p align="center"><i>AI + Human Intelligence = Edge</i></p>
+<p align="center"><i style="color:#aaa;">AI + Human Intelligence = Edge</i></p>
+
 
 <!-- Animated Header -->
 <p align="center">
