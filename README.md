@@ -1,3 +1,6 @@
+
+<p align="center"><i>AI + Human Intelligence = Edge</i></p>
+
 <!-- Animated Header -->
 <p align="center">
   <img src="https://github.com/FranQuant/franquant/blob/main/assets/human_robot_trading.gif?raw=true" alt="AI Quant Banner" width="70%" />
