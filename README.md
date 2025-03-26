@@ -4,7 +4,7 @@
 </p>
 
 ## 🌍 Hello World!
-Quant Researcher | AI in Finance | Systematic Trading
+Quantitative and AI-driven Investment Strategies
 
 I'm a 🇨🇴 **AI-Driven Quant Investment Professional** focused on building systematic investment strategies at the intersection of **Risk Premia**, **Machine Learning**, and **Asset Allocation**.
 
