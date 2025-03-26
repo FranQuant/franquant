@@ -4,7 +4,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://github.com/FranQuant/franquant/blob/main/assets/new_trading_banner.gif?raw=true" alt="AI Quant Banner" width="81%" />
+  <img src="https://github.com/FranQuant/franquant/blob/main/github_loop_banner.gif?raw=true" alt="AI Quant Banner" width="81%" />
 </p>
 
 ---
