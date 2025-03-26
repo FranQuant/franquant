@@ -1,5 +1,17 @@
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FranQuant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<p align="center"><i style="color:#aaa;">AI + Human Intelligence = Edge</i></p>
+## 👋 Hello World!
+
+I'm an 🇨🇴 **AI-Driven Quant Investment Professional** focused on building systematic investment strategies  
+at the intersection of **Risk Premia**, **Machine Learning**, and **Asset Allocation**.
+
+🧠 Bridging Quantitative Research + AI Engineering to uncover alpha.  
+
+
+<p align="center"><i style="color:#aaa;"> Thesis: AI + Human Intelligence = Edge</i></p>
 
 
 <!-- Animated Header -->
