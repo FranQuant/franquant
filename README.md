@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=FranQuant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-## 👋 Hello World!
+## 🌍 Hello World!
 
 I'm a 🇨🇴 **AI-Driven Quant Investment Professional** focused on building systematic investment strategies at the intersection of **Risk Premia**, **Machine Learning**, and **Asset Allocation**.
 
