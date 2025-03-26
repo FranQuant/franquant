@@ -4,8 +4,6 @@
 </p>
 
 ## 🌍 Hello World!
-Quantitative and AI-driven Investment Strategies
-
 I'm a 🇨🇴 **AI-Driven Quant Investment Professional** focused on building systematic investment strategies at the intersection of **Risk Premia**, **Machine Learning**, and **Asset Allocation**.
 
 🧠 Bridging Quantitative Research + AI Engineering to uncover alpha.  
