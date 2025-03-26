@@ -4,10 +4,8 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://github.com/FranQuant/franquant/blob/main/pure_trading_banner.gif?raw=true" alt="AI Quant Banner" width="81%" />
+  <img src="https://github.com/FranQuant/franquant/blob/main/compressed_trading_banner.gif?raw=true" alt="AI Quant Banner" width="81%" />
 </p>
-
-
 
 ---
 
