@@ -15,7 +15,6 @@
   <img src="https://github.com/FranQuant/franquant/blob/main/compressed_trading_banner.gif?raw=true" alt="AI Quant Banner" width="81%" />
 </p>
 
----
 ## What I'm building
 
 **[signal-lab](link)** — Research pipeline for systematic signals: point-in-time data
@@ -31,3 +30,4 @@ data triage, document extraction, and backtest QA. Humans keep the judgment call
 `anthropic-api` `langchain`
 
 📌 Currently exploring: agentic research workflows and where they break.
+---
