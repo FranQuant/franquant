@@ -4,10 +4,10 @@
 </p>
 
 ## 🌍 Hello World!
-🇨🇴 AI-Driven Quant | Building systematic strategies at the intersection of Risk Premia, Machine Learning & Asset Allocation. Fusing Quant Research & AI to engineer alpha
+🇨🇴 AI-Driven Quant | 
 
 
-<p align="center"><i style="color:#aaa;"> Thesis: AI + Human Intelligence = Edge</i></p>
+<p align="center"><i style="color:#aaa;"> Fusing Quant Research & AI to engineer alpha</i></p>
 
 
 <!-- Animated Header -->
