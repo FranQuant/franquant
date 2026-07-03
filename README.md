@@ -19,7 +19,7 @@
 
 **[signal-lab](link)** — Research pipeline for systematic signals: point-in-time data
 validation, multiple-testing safeguards, and out-of-sample evaluation by default.
-`python` `pandas` `scikit-learn`
+`python` `pandas` `scikit-learn` `pytorch`
 
 **[risk-premia-engine](link)** — Factor construction and dynamic allocation across
 traditional and digital assets, from raw data to portfolio weights.
@@ -30,4 +30,5 @@ data triage, document extraction, and backtest QA. Humans keep the judgment call
 `anthropic-api` `langchain`
 
 📌 Currently exploring: agentic research workflows and where they break.
+
 ---
