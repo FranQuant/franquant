@@ -16,3 +16,18 @@
 </p>
 
 ---
+## What I'm building
+
+**[signal-lab](link)** — Research pipeline for systematic signals: point-in-time data
+validation, multiple-testing safeguards, and out-of-sample evaluation by default.
+`python` `pandas` `scikit-learn`
+
+**[risk-premia-engine](link)** — Factor construction and dynamic allocation across
+traditional and digital assets, from raw data to portfolio weights.
+`vectorbt` `quantstats`
+
+**[research-agents](link)** — LLM workflows for the boring 80% of quant research:
+data triage, document extraction, and backtest QA. Humans keep the judgment calls.
+`anthropic-api` `langchain`
+
+📌 Currently exploring: agentic research workflows and where they break.
