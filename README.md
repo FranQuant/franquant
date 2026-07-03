@@ -4,7 +4,7 @@
 </p>
 
 ## 🌍 Hello World!
-🇨🇴 AI-Driven Quant | 
+🇨🇴 AI-Driven Quant | Models commoditize; pipelines don't. Building the data, workflows, and research infrastructure where quant edge actually lives.
 
 
 <p align="center"><i style="color:#aaa;"> Fusing Quant Research & AI to engineer alpha</i></p>
