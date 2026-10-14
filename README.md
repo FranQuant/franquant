@@ -6,13 +6,8 @@
 
 I build the research infrastructure where systematic edge actually lives: point-in-time data, pre-registered tests, and LLM workflows that handle the tedious 80% of research while humans keep the judgment calls.
 
-**Background.** Eight years on the buy side in Latin America before moving into quant/AI research full time.
 
-- **Lead Portfolio Manager, ADCAP** (2017–2019): ran local and international equity and fixed-income books with a rules-based trend/momentum strategy I designed; outperformed COLCAP and peers by 400 bps in 2018.
-- **Portfolio Management Associate, Andean Capital Management** (2011–2016): helped build a Black-Litterman portfolio construction algorithm for the LatAm equity universe.
-- **Intraday Futures Trader, Amplify Trading, London**: S&P 500, WTI, G7 FX, Bund.
 
-CQF · Certificate in Python for Algorithmic Trading (The Python Quants) · CFA Certificate in ESG Investing · Python Quants ambassador, Colombia
 
 ---
 
@@ -26,20 +21,6 @@ CQF · Certificate in Python for Algorithmic Trading (The Python Quants) · CFA 
 | [**filings-qa-rag-demo**](https://github.com/FranQuant/filings-qa-rag-demo) | Cited RAG over SEC filings: every claim is traceable to a retrieved chunk, citations are validated, and generation switches between OpenAI and Anthropic. | `EDGAR` `openai` `anthropic` |
 | [**next-gen-agentic-finance**](https://github.com/FranQuant/next-gen-agentic-finance) | Ten-step progression of agentic research patterns, ending in an evidence → interpretation → open-gaps handoff for human review. Read-only tools, no execution. | `agno` `tavily` `duckdb` `mcp` |
 | [**the-ai-engineer**](https://github.com/FranQuant/the-ai-engineer) | Four capstones: gradient descent and backprop from scratch, a decoder-only transformer measuring FOMC textual surprise (pre-registered test), and an auditable MCP agent with telemetry replay. | `pytorch` `mcp` |
-
-### How I run research
-
-- **Point-in-time or it didn't happen.** Data vintages are respected, snapshots are committed, and every notebook replays from a fresh clone with no API key.
-- **Register first, test second.** Hypotheses are fixed before the statistics are computed.
-- **Correct for the search.** Holm, Romano–Wolf and deflated Sharpe ratios, plus power analysis so a non-rejection means "not detected", not "equal".
-- **Audit the model, not just the data.** An LLM back-test has look-ahead bias no pipeline can remove, so I measure the memory and report it.
-- **Negative results get written up.** Knowing where a signal breaks is part of the deliverable.
-
-### Talks & papers
-
-- Speaker, 2nd AI in Finance Conference, St. Edward's University, Austin (2025)
-- Speaker, 1st AI in Finance Conference, Texas State University (2024)
-- *LSTM networks for daily Bitcoin direction prediction*, Proceedings of VIII MACI, Buenos Aires (2021)
 
 ---
 
