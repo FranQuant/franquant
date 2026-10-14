@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=FranQuant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/></p>
 
-## J. Francisco Salazar, CQF
+## J. Francisco Salazar
 
 **Quant researcher · systematic trading & asset allocation**
 
