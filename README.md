@@ -1,13 +1,10 @@
 ## J. Francisco Salazar, CQF
 
-**Quant researcher · systematic trading & asset allocation · AI for investment research** · Bogotá 🇨🇴
+**Quant researcher · systematic trading & asset allocation
 
 > *Models commoditize; pipelines don't.*
 
 I build the research infrastructure where systematic edge actually lives: point-in-time data, pre-registered tests, and LLM workflows that handle the tedious 80% of research while humans keep the judgment calls.
-
-
-
 
 ---
 
