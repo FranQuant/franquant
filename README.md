@@ -1,6 +1,6 @@
 ## J. Francisco Salazar, CQF
 
-**Quant researcher · systematic trading & asset allocation
+**Quant researcher · systematic trading & asset allocation**
 
 > *Models commoditize; pipelines don't.*
 
