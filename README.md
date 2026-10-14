@@ -8,7 +8,3 @@
 | [**filings‑qa‑rag‑demo**](https://github.com/FranQuant/filings-qa-rag-demo) | Cited RAG over SEC filings: every claim traceable to a retrieved chunk, citations validated, OpenAI or Anthropic generation. | ![SEC EDGAR](https://img.shields.io/badge/SEC%20EDGAR-1F3A5F?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
 | [**next‑gen‑agentic‑finance**](https://github.com/FranQuant/next-gen-agentic-finance) | Agentic research patterns in ten steps, ending in an evidence → interpretation → open-gaps handoff for human review. Read-only tools, no execution. | ![Agno](https://img.shields.io/badge/Agno-333333?style=flat-square) ![Tavily](https://img.shields.io/badge/Tavily-333333?style=flat-square) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![MCP](https://img.shields.io/badge/MCP-333333?style=flat-square) |
 | [**the‑ai‑engineer**](https://github.com/FranQuant/the-ai-engineer) | Four capstones: gradient descent and backprop from scratch, a transformer measuring FOMC textual surprise, and an auditable MCP agent. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-333333?style=flat-square) |
-
----
-
-[LinkedIn](https://www.linkedin.com/in/j-francisco-salazar) · [X](https://twitter.com/frasagui2014)
